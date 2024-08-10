@@ -1,3 +1,7 @@
+spot:
+	70x70
+Bolt:
+	80x80
 LongWood3:
 	582 x 102
 Circle:
@@ -18,3 +22,13 @@ LongWood4:
 	479 x 126
 Cross:
 	309 x 304
+cross2 : 
+	483 x 464
+Cwood : 
+	168 x 291
+Rectangle:
+	500 x 250
+Rectangle2:
+	500 x 250
+Square:
+	277 x 270
